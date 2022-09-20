@@ -2,8 +2,9 @@
 #include "main.h"
 
 /**
- * _puts ->this is a function that puts
+ * _puts - this is a function that puts
  * @str: a param to _puts function
+ *
  * Description: prints a string
  * On success: returns no error
  */

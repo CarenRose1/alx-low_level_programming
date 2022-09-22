@@ -1,11 +1,11 @@
 #include "main.h"
+#include <string.h>
 
 /**
  *_strcat - concatenates the string pointed to by @src to
  * the end of the string pointed to by @dest
  * @dest: A pointer to the string to be concatenated upon.
  *@src: String to be concatenated upon
- *
  * Return: A pointer to the destination string @dest.
  */
 

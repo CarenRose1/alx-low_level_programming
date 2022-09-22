@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *_strncat - concatenate two strings but add inputted number of bytes
  *@dest: string to be appended upon
@@ -9,7 +10,6 @@
 
 char *_strncat(char *dest, char *src, int n);
 {
-
 	int index = 0, dest_len = 0;
 
 	while (dest[index++])

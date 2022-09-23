@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *infinite_add - C function that adds two numbers stored
+ * infinite_add - C function that adds two numbers stored
  *in strings to a buffer.
  *Assumes that strings are never empty and
  *that numbers will always be positive, or 0.
